@@ -34,7 +34,7 @@ import com.troytan.structure.decorator.Shoes;
 import com.troytan.structure.decorator.TShirts;
 
 /**
- * TODO description
+ * 装饰模式：动态的对一个对象添加额外的职能。解耦原对象与新特性的关联，相对于生成子类来说更灵活(子类包含了父类对象特性) *功能添加：组合方式>继承方式
  * 
  * @author s8xriw
  * @date 2017年12月4日

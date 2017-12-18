@@ -33,7 +33,7 @@ import com.troytan.structure.adapter.Player;
 import com.troytan.structure.adapter.Translator;
 
 /**
- * TODO description
+ * 适配器模式：将一个类的接口转化成目标接口形式，达到兼容的目的
  * 
  * @author s8xriw
  * @date 2017年12月4日

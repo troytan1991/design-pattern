@@ -35,7 +35,7 @@ import com.troytan.structure.bridge.MobileBrand;
 import com.troytan.structure.bridge.Software;
 
 /**
- * 通过合成、集合方式，解耦品牌跟软件的关联，各自变化、组合
+ * 桥接模式：通过合成、集合方式，解耦品牌跟软件的关联，各自变化、组合
  * 
  * @author s8xriw
  * @date 2017年12月4日
