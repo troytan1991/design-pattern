@@ -1,27 +1,3 @@
-/*
-* Copyright 2017 SAIC General Motors Corporation Ltd. All Rights Reserved.
-*
-* This software is published under the terms of the SGM Software
-* License version 1.0, a copy of which has been included with this
-* distribution in the LICENSE.txt file.
-*
-* @Project Name : design-pattern
-*
-* @File name : FactoryMethodTest.java
-*
-* @Author : s8xriw
-*
-* @Date : 2017年12月4日
-*
-----------------------------------------------------------------------------------
-*     Date       Who       Version     Comments
-* 1. 2017年12月4日    s8xriw    1.0
-*
-*
-*
-*
-----------------------------------------------------------------------------------
-*/
 
 package com.troytan.creation;
 
@@ -34,7 +10,7 @@ import com.troytan.creation.factorymethod.MulFactory;
 import com.troytan.creation.factorymethod.Operation;
 
 /**
- * TODO description
+ * 工厂方法：定义一个创建对象的接口，让子类决定具体的创建过程。使得一个类的实例化延迟到子类
  * 
  * @author s8xriw
  * @date 2017年12月4日

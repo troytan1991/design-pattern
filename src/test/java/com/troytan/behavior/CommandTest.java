@@ -9,7 +9,7 @@ import com.troytan.behavior.command.Command;
 import com.troytan.behavior.command.Waiter;
 
 /**
- * 将请求封装为一个命令对象，对不同的客户请求进行参数化(不同请求对应不同的实现类);进行请求排队，记录日志，撤销等操作
+ * 命令模式：将请求封装为一个命令对象，对不同的客户请求进行参数化(不同请求对应不同的实现类);进行请求排队，记录日志，撤销等操作
  * 
  * @author troytan
  * @date 2017年12月13日

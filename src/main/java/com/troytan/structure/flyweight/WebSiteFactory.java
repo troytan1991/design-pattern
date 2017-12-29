@@ -18,4 +18,8 @@ public class WebSiteFactory {
         }
         return websites.get(key);
     }
+
+    public int getCount() {
+        return websites.size();
+    }
 }

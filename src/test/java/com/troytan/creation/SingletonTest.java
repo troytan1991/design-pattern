@@ -31,7 +31,7 @@ import org.junit.Test;
 import com.troytan.creation.Singleton.DbManager;
 
 /**
- * TODO description
+ * 单例模式：保证一个类仅有一个实例，并提供一个访问它的全局访问点(getInstance方法)
  * 
  * @author s8xriw
  * @date 2017年12月4日

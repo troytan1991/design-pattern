@@ -33,7 +33,7 @@ import com.troytan.creation.prototype.Student;
 import com.troytan.creation.prototype.Teacher;
 
 /**
- * TODO description
+ * 原型模式：用原型实例指定创建创建对象的种类，并通过copy原型创建新的对象.使用clone方式创建同样新的对象，提交创建效率
  * 
  * @author s8xriw
  * @date 2017年12月4日
