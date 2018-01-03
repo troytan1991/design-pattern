@@ -25,6 +25,10 @@
 
 package com.troytan.structure.adapter;
 
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
 /**
  * TODO description
  * 
@@ -38,6 +42,8 @@ public class ChineseCenter {
 
     public void jingong() {
         System.out.println(String.format("中国中锋%s进攻", name));
+        List<String> list = new ArrayList<>();
+        Iterator<String> iterator = list.iterator();
     }
 
     public void fangshou() {
