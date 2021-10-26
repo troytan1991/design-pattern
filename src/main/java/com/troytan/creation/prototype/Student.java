@@ -3,7 +3,7 @@ package com.troytan.creation.prototype;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -15,7 +15,7 @@ public class Student extends Person implements Cloneable{
     /**
      * deep clone
      * 
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      * @return
      * @throws CloneNotSupportedException (non-Javadoc)

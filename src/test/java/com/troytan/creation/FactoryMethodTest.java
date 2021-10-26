@@ -12,7 +12,7 @@ import com.troytan.creation.factorymethod.Operation;
 /**
  * 工厂方法：定义一个创建对象的接口，让子类决定具体的创建过程。使得一个类的实例化延迟到子类
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 

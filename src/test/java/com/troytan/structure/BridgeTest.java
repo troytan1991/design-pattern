@@ -1,7 +1,7 @@
 /*
 * Copyright 2017 SAIC General Motors Corporation Ltd. All Rights Reserved.
 *
-* This software is published under the terms of the SGM Software
+* This software is published under the terms of the troytan Software
 * License version 1.0, a copy of which has been included with this
 * distribution in the LICENSE.txt file.
 *
@@ -9,13 +9,13 @@
 *
 * @File name : BridgeTest.java
 *
-* @Author : s8xriw
+* @Author : troytan
 *
 * @Date : 2017年12月4日
 *
 ----------------------------------------------------------------------------------
 *     Date       Who       Version     Comments
-* 1. 2017年12月4日    s8xriw    1.0
+* 1. 2017年12月4日    troytan    1.0
 *
 *
 *
@@ -37,7 +37,7 @@ import com.troytan.structure.bridge.Software;
 /**
  * 桥接模式：通过合成、集合方式，解耦品牌跟软件的关联，各自变化、组合
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 

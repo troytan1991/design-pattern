@@ -3,14 +3,14 @@ package com.troytan.creation.abstractfactory;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
 public class OracleDepartment implements IDepartment {
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.abstractfactory.IDepartment#insert()
      */
@@ -21,7 +21,7 @@ public class OracleDepartment implements IDepartment {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.abstractfactory.IDepartment#update()
      */

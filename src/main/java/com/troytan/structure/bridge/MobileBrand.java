@@ -3,7 +3,7 @@ package com.troytan.structure.bridge;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -14,7 +14,7 @@ public abstract class MobileBrand {
     /**
      * TODO description
      *
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      */
     public void setSoftware(Software software) {

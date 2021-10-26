@@ -9,7 +9,7 @@ import com.troytan.creation.simplefactory.OperationFactory;
 /**
  * 简单工厂：将具体对象的创建过程封装到工厂类中进行，由工厂类控制其生命周期
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 public class SimpleFactoryTest {

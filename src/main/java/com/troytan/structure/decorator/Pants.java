@@ -3,7 +3,7 @@ package com.troytan.structure.decorator;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -14,7 +14,7 @@ public class Pants extends Finery {
     /**
      * TODO description
      *
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      */
     public Pants(String style){
@@ -22,7 +22,7 @@ public class Pants extends Finery {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.structure.decorator.Finery#show()
      */

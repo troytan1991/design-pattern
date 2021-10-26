@@ -3,7 +3,7 @@ package com.troytan.structure.adapter;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -14,7 +14,7 @@ public abstract class Player {
     /**
      * TODO description
      *
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      */
     public Player(String name){

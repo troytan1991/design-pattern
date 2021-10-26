@@ -3,14 +3,14 @@ package com.troytan.creation.builder;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
 public class ThinPersonBuilder implements PersonBuilder {
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.builder.PersonBuilder#buildHead()
      */
@@ -21,7 +21,7 @@ public class ThinPersonBuilder implements PersonBuilder {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.builder.PersonBuilder#buildBody()
      */
@@ -33,7 +33,7 @@ public class ThinPersonBuilder implements PersonBuilder {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.builder.PersonBuilder#buildArm()
      */
@@ -44,7 +44,7 @@ public class ThinPersonBuilder implements PersonBuilder {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.builder.PersonBuilder#buildLeg()
      */

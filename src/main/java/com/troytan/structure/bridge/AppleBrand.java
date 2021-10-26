@@ -3,7 +3,7 @@ package com.troytan.structure.bridge;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -11,7 +11,7 @@ public class AppleBrand extends MobileBrand {
 
     
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.structure.bridge.MobileBrand#runSoftware()
      */

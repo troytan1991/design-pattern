@@ -9,7 +9,7 @@ package com.troytan.creation.abstractfactory;
 public class OracleUser implements IUser {
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.abstractfactory.IUser#insert()
      */
@@ -20,7 +20,7 @@ public class OracleUser implements IUser {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.creation.abstractfactory.IUser#update()
      */

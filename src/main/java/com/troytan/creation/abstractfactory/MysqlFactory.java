@@ -3,14 +3,14 @@ package com.troytan.creation.abstractfactory;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
 public class MysqlFactory implements IFactory {
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      * @return (non-Javadoc)
      * @see com.troytan.creation.abstractfactory.IFactory#createUser()
@@ -22,7 +22,7 @@ public class MysqlFactory implements IFactory {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      * @return (non-Javadoc)
      * @see com.troytan.creation.abstractfactory.IFactory#createDepartment()

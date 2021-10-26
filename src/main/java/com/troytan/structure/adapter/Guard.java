@@ -3,7 +3,7 @@ package com.troytan.structure.adapter;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -12,7 +12,7 @@ public class Guard extends Player {
     /**
      * TODO description
      *
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      * @param name
      */
@@ -21,7 +21,7 @@ public class Guard extends Player {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.structure.adapter.Player#attack()
      */
@@ -32,7 +32,7 @@ public class Guard extends Player {
     }
 
     /**
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日 (non-Javadoc)
      * @see com.troytan.structure.adapter.Player#defense()
      */

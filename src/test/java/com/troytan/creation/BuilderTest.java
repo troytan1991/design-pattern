@@ -11,7 +11,7 @@ import com.troytan.creation.builder.ThinPersonBuilder;
 /**
  * 建造者模式：将一个复杂对象的构建与他的表示分离，使得同样的构建过程可以创建不同的表示
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 

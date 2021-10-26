@@ -3,7 +3,7 @@ package com.troytan.creation.Singleton;
 /**
  * TODO description
  * 
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -20,7 +20,7 @@ public class DbManager {
     /**
      * 多线程下的单例实现
      *
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      * @return
      */

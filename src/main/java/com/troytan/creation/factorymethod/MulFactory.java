@@ -3,7 +3,7 @@ package com.troytan.creation.factorymethod;
 
 /**
  * TODO description
- * @author s8xriw
+ * @author troytan
  * @date 2017年12月4日
  */
 
@@ -11,7 +11,7 @@ public class MulFactory implements IFactory{
 
     /**
      *
-     * @author s8xriw
+     * @author troytan
      * @date 2017年12月4日
      * @param operationStr
      * @return
